@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Dito personal blog project
+
+Currently just playing with these codes
